@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Markus
 middle_name:
 last_name: Mueller
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate at Econometric Institute of the Erasmus University Rotterdam.
 footer_text: >
@@ -51,7 +50,7 @@ footer_fixed: true
 search_enabled: false
 socials_in_search: false
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -200,6 +199,8 @@ exclude:
   - _pages/repositories.md
   - _pages/books.md
   - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -393,7 +394,7 @@ enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
-enable_darkmode: true # enables switching between light/dark modes
+enable_darkmode: false # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
