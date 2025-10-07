@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title:
 permalink: /
-subtitle: Ph.D. candidate at EUR working on generative models for tabular data.
+subtitle:
 
 profile:
   align: left
