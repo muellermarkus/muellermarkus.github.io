@@ -24,4 +24,6 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th year Ph.D. student at the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus University Rotterdam](https://www.eur.nl/en). 
+I am a Ph.D. candidate at the [Econometric Institute](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus University Rotterdam](https://www.eur.nl/en), supervised by [Dennis Fok](https://www.eur.nl/people/dennis-fok) and [Kathrin Gruber](https://www.eur.nl/en/people/kathrin-gruber). My work focuses on deep generative models for tabular data, in particular on diffusion models and flow matching. Besides that, I am also interested in probabilistic machine learning (uncertainty quantification and variational inference) and deep learning for tabular data.
+
+Previously, I completed the research master in [Business Data Science](https://businessdatascience.nl/home) at the Tinbergen Institute / BDS in Amsterdam.
