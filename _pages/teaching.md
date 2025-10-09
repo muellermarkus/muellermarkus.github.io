@@ -31,7 +31,7 @@ I have gained substantial teaching experience as a TA in statistics and machine 
 - Applied Public Policy Evaluation 
 
 #### Thesis supervision
-Below of give a broad overview over the supervised topics:
+See below for a broad overview over the supervised topics:
 
 - Denoising Autoencoders for tabular data
 - Classification and Regression Diffusion models
