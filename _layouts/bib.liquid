@@ -349,6 +349,13 @@
       </div>
     {% endif %}
 
+    {% if entry.idea %}
+      <!-- Hidden idea block -->
+      <div class="idea hidden">
+        <p>{{ entry.idea }}</p>
+      </div>
+    {% endif %}
+
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
