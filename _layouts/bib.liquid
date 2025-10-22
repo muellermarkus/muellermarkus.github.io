@@ -192,6 +192,9 @@
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
       {% endif %}
+      {% if entry.idea %}
+        <a class="idea btn btn-sm z-depth-0" role="button">Idea</a>
+      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {% endif %}
