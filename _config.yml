@@ -6,14 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Markus
 middle_name:
 last_name: Mueller
-contact_note: 
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate at the Econometric Institute of the Erasmus University Rotterdam.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: 
+keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  # blog_name will be displayed in your blog page
-blog_description: 
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -192,7 +192,7 @@ exclude:
   - readme_preview/
   - vendor
   # additional excludes
-  - _news/announcement_*.md 
+  - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
   - _projects/?_project.md
@@ -322,6 +322,7 @@ filtered_bibtex_keywords:
     code,
     google_scholar_id,
     html,
+    idea,
     inspirehep_id,
     pdf,
     poster,
