@@ -12,7 +12,7 @@ I have gained substantial teaching experience as a TA in statistics and machine 
 
 #### Erasmus University Rotterdam (postgraduate)
 For these courses, my TA work typically involved the creation / grading of assignments and exams.
-- Machine Learning
+- Machine Learning (I also gave the lecture about deep learning)
 - Machine Learning in Finance
 - Machine Learning and Economics
 - Data Science in Context
@@ -40,6 +40,7 @@ See below for a broad overview of the supervised topics:
 
 - Denoising Autoencoders for tabular data
 - Classification and Regression Diffusion models
+- Neural Additive Models
 - Post-hoc auditing of synthetic tabular data
 - Deep Learning for tabular data
 - VAEs for ITE estimation under confounding
